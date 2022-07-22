@@ -1,0 +1,6 @@
+
+[default]
+aws_access_key_id = AKIAYVP4CIPPJYLS7Y5J
+aws_secret_access_key = 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
+output = json
+region = us-east-2
